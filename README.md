@@ -244,11 +244,6 @@ We welcome contributions! Please:
 
 This project is licensed under the MIT License.
 
-## 🔗 Links
-
-- **Live Demo**: [Coming Soon]
-- **Documentation**: [Link to docs]
-- **Twitter**: [@Gate402]
 
 ## 👥 Team
 
