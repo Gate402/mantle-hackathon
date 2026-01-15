@@ -1,3 +1,9 @@
 [submodule "core-engine"]
 	path = core-engine
 	url = https://github.com/Gate402/core-engine
+[submodule "smart-contract"]
+	path = smart-contract
+	url = https://github.com/Gate402/gate-token-sc
+[submodule "ui"]
+	path = ui
+	url = https://github.com/Gate402/mantle-hackathon-ui
