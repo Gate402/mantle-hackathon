@@ -56,7 +56,7 @@ Express.js backend that handles:
 
 **Tech Stack:** Express.js, TypeScript, Prisma, PostgreSQL, Redis
 
-[📖 Core Engine Documentation](./core-engine/README.md)
+[📖 Core Engine Documentation](https://github.com/Gate402/core-engine/README.md)
 
 #### 2. **Smart Contract**
 
@@ -69,7 +69,7 @@ GAToken (G402) - ERC20 token with:
 
 **Tech Stack:** Solidity, Foundry
 
-[📖 Smart Contract Documentation](./smart-contract/README.md)
+[📖 Smart Contract Documentation](https://github.com/Gate402/gate-token-sc/README.md)
 
 #### 3. **UI** (Frontend)
 
@@ -82,7 +82,7 @@ React-based dashboard for:
 
 **Tech Stack:** React 19, TypeScript, Vite, Wagmi, RainbowKit, Tailwind CSS
 
-[📖 UI Documentation](./ui/README.md)
+[📖 UI Documentation](https://github.com/Gate402/mantle-hackathon-ui/README.md)
 
 ## 🛠️ Quick Start
 
@@ -106,9 +106,9 @@ cd mantle-hackathon
 
 Each component has its own detailed setup instructions:
 
-- **[Core Engine Setup](./core-engine/instruction.md)** - Backend API, payment proxy, database configuration
-- **[UI Setup](./ui/README.md)** - Frontend dashboard, environment configuration, development server
-- **[Smart Contract Setup](./smart-contract/README.md)** - Contract deployment, Foundry configuration
+- **[Core Engine Setup](https://github.com/Gate402/core-engine/README.md)** - Backend API, payment proxy, database configuration
+- **[UI Setup](https://github.com/Gate402/mantle-hackathon-ui/README.md)** - Frontend dashboard, environment configuration, development server
+- **[Smart Contract Setup](https://github.com/Gate402/gate-token-sc/README.md)** - Contract deployment, Foundry configuration
 
 Please refer to the individual component documentation for detailed installation, configuration, and deployment instructions.
 
