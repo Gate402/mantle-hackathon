@@ -56,7 +56,7 @@ Express.js backend that handles:
 
 **Tech Stack:** Express.js, TypeScript, Prisma, PostgreSQL, Redis
 
-[📖 Core Engine Documentation](./core-engine/instruction.md)
+[📖 Core Engine Documentation](./core-engine/README.md)
 
 #### 2. **Smart Contract**
 
